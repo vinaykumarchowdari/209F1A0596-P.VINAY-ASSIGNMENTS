@@ -1,0 +1,29 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    width: 30rem;
+    background-color: red;
+    text-align: center;
+    
+}
+.text-x1{
+    text-align: center;
+}
+.loknath{
+    font-size: large;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+.vinay{
+    size: 100px;
+    background-color: blue;
+
+}
+.main{
+    margin-left: 600px;
+    height: fit-content;
+}
+.img{
+    width: auto;
+    border-radius: 20px;
+}
